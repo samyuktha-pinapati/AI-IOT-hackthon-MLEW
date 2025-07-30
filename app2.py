@@ -1,0 +1,5 @@
+number=100
+#while (number>1):
+while (number>5):
+    print(number)
+    number=number-1
